@@ -16,7 +16,7 @@ The Decision Tree Classifier model in this repository uses a decision tree algor
 To use the Decision Tree Classifier model:
 
 1. Install the required libraries.
-2. Run the `decision_tree_classifier.ipynb` script.
+2. Run the `Lab 2- Gurinder Kaur_Decision Tree_v1.ipynb` script.
 3. Follow the instructions provided in the script to load and train the model, make predictions, and evaluate its performance.
 
 ## Logistic Regression Model
@@ -28,7 +28,7 @@ The Logistic Regression Model in this repository uses the logistic regression al
 To use the Logistic Regression Model:
 
 1. Install the required libraries.
-2. Run the `logistic_regression_model.ipynb` script.
+2. Run the `Lab 2- Gurinder Kaur_Logistic Regression_v2.ipynb` script.
 3. Follow the instructions provided in the script to load and train the model, make predictions, and evaluate its performance.
 
 ## Contributing
