@@ -1,5 +1,4 @@
 # AIDI_2004-Lab_2
-# AIDI_2004-Lab_2
 # Breast Cancer Classifier
 
 This repository contains machine learning models for classifying breast cancer using the Breast Cancer Wisconsin (Diagnostic) Dataset.
